@@ -1,14 +1,14 @@
 # Microsoft-s-Movie-Studio-project
-#EXPLORATORY DATA ANALYSIS FOR MICROSOFT'S MOVIE STUDIO
-#Introduction
+# EXPLORATORY DATA ANALYSIS FOR MICROSOFT'S MOVIE STUDIO
+# Introduction
 With technology and the availability of vast and large amounts of data, companies are increasingly turning to exporatory data analysis techniques to gain insights into the market and have a proper understanding of the businesses they want to venture into and generate alpha. This project, aims to develop a predictive exloratory data analysis for micresoft's movie studio, using a range of data from different movie companies as inputs.
 
 The project involves analyzing data from the zippeddata file to gain insight on market-specific factors such a movie reviews, ratings, annual domestic and foreign revenue, movie genres,and also movie budgets. This helped in developing and evaluating the performance of the selected key areas of interest. The results of the project could provide valuable insights into the microsoft's movie studio project and inform investment decisions both local and internationally.
 
-#Main Objective
+# Main Objective
 The main objectives for this analysis is to identify the types of films that are currently performing well in terms of their ratings, reviews and total annual revenue (both domestic and foreign) in the movies industry, and also to leverage the information from the insights of the analysis, into making a more informed decision, about Microsoft's movies studio production strategies.
 
-#Notebook Structure
+# Notebook Structure
 1. Reading the Data
 2. Data Wrangling
 3. Exploratory Data Analysis
@@ -17,7 +17,7 @@ The main objectives for this analysis is to identify the types of films that are
 6. visualization
 7. Conclusions
 8. Recommendations
-#Data Understanding
+# Data Understanding
 Business understanding
 the head of Microsofts movie studio wanted to understand.
 
