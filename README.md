@@ -45,5 +45,18 @@ TheMovieDB
 Of the several datasets used, only some features and rows are relevant to the process such as: movie_basics,movie_ratings,from the ("im.db" SQL database tables). Data from the "bom.movie_gross" dataset was used to identify the top movies based on domestic and foreign gross.then the insights was used to visualize the information using hori!
 zontal bar plots and line graphs.
 <img width="586" alt="image" src="https://github.com/moschine/Microsoft-s-Movie-Studio-project/assets/144592615/9c4aacba-17cd-4b16-b7fa-b07253d6706e">
+<img width="615" alt="image" src="https://github.com/moschine/Microsoft-s-Movie-Studio-project/assets/144592615/239c8c77-9bc2-4bdd-8948-ff2d5614fec0">
+# Methodology
+1. Data Wrangling
+Out of the several datasets used, only some features and rows are relevant to the process such as: movie_basics,movie_ratings,from the ("im.db" SQL database tables). Data from the "bom.movie_gross" dataset was used to identify the top movies based on domestic and foreign gross.then the insights was used to visualize the information using horizontal bar plots and line graphs.Therefore, in this step, the features that were not required from each dataset were dropped.
 
+2. Exploratory Data Analysis
+Data collected, identified the movie with the highest rating, the top rated movies were analyzed, and a line plot of average ratings for, over the years was created Data explored data from Rotten Tomatoes, TMDB, and the "im.db"SQL database, specifically the "movie_basics" and "movie_ratings" tables.
+
+3. Conclusions
+Movie productions are majorly influenced by genres, release years, runtime and annual domestic and gross revenue. movie ratings and reviws are some of the key features to look into when learning how which types of movie genres are the best for production in the movie industry.
+4. Recommendations
+Based on the analysis, Microsoft's movie studio, should consider focusing on the: genres, release years, runtime and annual domestic and gross revenue, that have historically resulted in successful films.
+Microsoft's movie studio and their financial analysts should leverage data science, exploratory data analysis techniques to generate more accurate and sustainable predictions.
+Microsoft's movie studio should consider, producing movies with description since foreign audience, may not be well aquinted to only english.
 
