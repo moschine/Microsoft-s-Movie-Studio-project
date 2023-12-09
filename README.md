@@ -44,5 +44,6 @@ Rotten Tomatoes
 TheMovieDB
 Of the several datasets used, only some features and rows are relevant to the process such as: movie_basics,movie_ratings,from the ("im.db" SQL database tables). Data from the "bom.movie_gross" dataset was used to identify the top movies based on domestic and foreign gross.then the insights was used to visualize the information using hori!
 zontal bar plots and line graphs.
-[img1](https://github.com/moschine/Microsoft-s-Movie-Studio-project/assets/144592615/3f791e58-9d03-4d20-b0d3-e494205e3c6a)
+<img width="586" alt="image" src="https://github.com/moschine/Microsoft-s-Movie-Studio-project/assets/144592615/9c4aacba-17cd-4b16-b7fa-b07253d6706e">
+
 
