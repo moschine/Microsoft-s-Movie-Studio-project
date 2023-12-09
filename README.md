@@ -42,4 +42,7 @@ IMDB
 The Numbers
 Rotten Tomatoes
 TheMovieDB
-Of the several datasets used, only some features and rows are relevant to the process such as: movie_basics,movie_ratings,from the ("im.db" SQL database tables). Data from the "bom.movie_gross" dataset was used to identify the top movies based on domestic and foreign gross.then the insights was used to visualize the information using horizontal bar plots and line graphs.
+Of the several datasets used, only some features and rows are relevant to the process such as: movie_basics,movie_ratings,from the ("im.db" SQL database tables). Data from the "bom.movie_gross" dataset was used to identify the top movies based on domestic and foreign gross.then the insights was used to visualize the information using hori!
+zontal bar plots and line graphs.
+[img1](https://github.com/moschine/Microsoft-s-Movie-Studio-project/assets/144592615/3f791e58-9d03-4d20-b0d3-e494205e3c6a)
+
