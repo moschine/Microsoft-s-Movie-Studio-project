@@ -17,7 +17,6 @@ The main objectives for this analysis is to identify the types of films that are
 6. visualization
 7. Conclusions
 8. Recommendations
-9. Data Understanding
     
 ## Business understanding
 ### the head of Microsofts movie studio wanted to understand.
@@ -25,7 +24,8 @@ The main objectives for this analysis is to identify the types of films that are
 1. How the insights derived from the analysis of both the domestic and foreign gross revenue be translated into actionable strategies for entering and expanding into the international markets.
 2. was there additional data sources that stakeholders believe could provide valuable insights to the audience preference, market trends, or competitor strategies.
 3. In what ways can the tools and libraries utilized in the analysis enhance collaboration between our data analysts, filmmakers, and marketing teams to make more informed decisions.
-Data understanding
+4. 
+# Data understanding
 
 ### The data used in this project was a downloaded zippeddata folder containing the following files:
 
